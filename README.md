@@ -1,44 +1,36 @@
-# Пра MARA
+# About MARA
 
-MARA - гэта некамерцыйная арганізацыя, створаная беларусамі для беларусаў, якія жывуць у Нідэрландах.
+MARA is a non-profit organization created by Belarusians for Belarusians living in the Netherlands.
 
-## Місія і мэты
+## Mission and Goals
+- Providing assistance to individuals persecuted for political, national, or other motives
+- Promoting the development of Belarusian civil society and institutions
+- Supporting and developing Belarusian culture
 
-- Аказанне дапамогі асобам, якія пераследуюцца па палітычных, нацыянальных ці іншых матывах
-- Садзейнічанне развіццю беларускай грамадзянскай супольнасці і інстытутаў
-- Падтрымка і развіццё беларускай культуры
+## Why MARA Exists
+- To unite various projects and initiatives of the Belarusian diaspora
+- To simplify the work of Belarusian public initiatives
 
-## Чаму існуе MARA
+## Services and Activities
+- Providing humanitarian aid
+- Helping Belarusian refugees and their families
+- Organizing cultural events and celebrations (including Kupalle on the North Sea)
+- Assistance in organizing concerts
+- Assistance in conducting workshops, including for children
+- Supporting various initiatives from community members
 
-- Каб аб'яднаць розныя праекты і ініцыятывы беларускай дыяспары
-- Каб спрасціць працу беларускіх грамадскіх ініцыятыў
+## How to Join MARA
+If you are a Belarusian in the Netherlands and wish to join our community, receive help, or offer your support, you can:
+- Contact us by email
+- Subscribe to our social networks to receive the latest news
+- Participate in our events
+- Join volunteer initiatives
 
-## Паслугі і дзейнасць
+## How to Help MARA
+If you wish to support our activities:
+- **Volunteering**: join our events and projects
+- **Financial assistance**: make a donation to support our programs
+- **Information sharing**: help spread information about our initiatives
 
-- Аказанне гуманітарнай дапамогі
-- Дапамога беларускім уцекачам і іх сем'ям
-- Арганізацыя культурных мерапрыемстваў і святаў (у тым ліку Купалле на Паўночным моры)
-- Дапамога ў арганізацыі канцэртаў
-- Дапамога ў правядзенні майстар-класаў, у тым ліку для дзяцей
-- Падтрымка розных ініцыятыў ад членаў суполкі
-
-## Як далучыцца да MARA
-
-Калі вы беларус у Нідэрландах і жадаеце далучыцца да нашай супольнасці, атрымаць дапамогу ці прапанаваць сваю падтрымку, вы можаце:
-
-- Звязацца з намі па электроннай пошце
-- Падпісацца на нашы сацыяльныя сеткі для атрымання апошніх навін
-- Прыняць удзел у нашых мерапрыемствах
-- Далучыцца да валанцёрскіх ініцыятыў
-
-## Як дапамагчы MARA
-
-Калі вы жадаеце падтрымаць нашу дзейнасць:
-
-- **Валанцёрства**: далучайцеся да нашых мерапрыемстваў і праектаў
-- **Фінансавая дапамога**: зрабіце ахвяраванне для падтрымкі нашых праграм
-- **Распаўсюджванне інфармацыі**: дапамажыце распаўсюджваць інфармацыю пра нашы ініцыятывы
-
-## Гісторыя арганізацыі
-
-MARA была заснавана беларусамі, якія жывуць у Нідэрландах, з мэтай стварэння моцнай супольнасці, здольнай адстойваць інтарэсы беларускай дыяспары і захоўваць нацыянальную ідэнтычнасць. За час свайго існавання арганізацыя дапамагла з арганізацыяй ці арганізавала шматлікія культурныя, гуманітарныя і сацыяльныя праекты.
+## History of the Organization
+MARA was founded by Belarusians living in the Netherlands with the aim of creating a strong community capable of defending the interests of the Belarusian diaspora and preserving national identity. Throughout its existence, the organization has helped organize or has organized numerous cultural, humanitarian, and social projects.
